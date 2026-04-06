@@ -15,7 +15,7 @@ public class Calculadora {
         }
     }
 
-    // Método principal para testar
+    // Edição para merge final do trabalho TPI1
     public static void main(String[] args) {
         Calculadora calc = new Calculadora();
 
